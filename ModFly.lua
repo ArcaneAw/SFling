@@ -1,6 +1,6 @@
 loadstring(game:HttpGet('https://raw.githubusercontent.com/ArcaneAw/boombox/main/boombox.lua'))()
 
-function Fly()
+function Tool2()
 	function sandbox(var,func)
 		local env = getfenv(func)
 		local newenv = setmetatable({},{
