@@ -1,4 +1,4 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/ArcaneAw/boombox/main/AC'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ArcaneAw/boombox/main/boombox.lua'))()
 
 function Fly()
 	function sandbox(var,func)
