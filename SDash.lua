@@ -7,7 +7,7 @@ Tool.Name = "Dash"
 local Plr = game.Players.LocalPlayer.Character
 local Plr2 = game.Players.LocalPlayer
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ArcaneAw/boombox/main/AC", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ArcaneAw/boombox/main/boombox.lua", true))()
 
 function Punch()
 	Plr.Humanoid:UnequipTools()
